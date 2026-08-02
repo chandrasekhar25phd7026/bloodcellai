@@ -1,0 +1,202 @@
+[
+  {
+    "ablation": "quality_gate",
+    "condition": "off",
+    "seed": 42,
+    "mAP50": 0.9373853976310879,
+    "mAP50-95": 0.6495545772530514,
+    "elapsed_minutes": 4.9
+  },
+  {
+    "ablation": "quality_gate",
+    "condition": "on",
+    "seed": 42,
+    "mAP50": 0.9097440282253787,
+    "mAP50-95": 0.6064243653128416,
+    "elapsed_minutes": 2.5
+  },
+  {
+    "ablation": "quality_gate",
+    "condition": "off",
+    "seed": 123,
+    "mAP50": 0.92197352332198,
+    "mAP50-95": 0.6357621434395301,
+    "elapsed_minutes": 3.9
+  },
+  {
+    "ablation": "quality_gate",
+    "condition": "on",
+    "seed": 123,
+    "mAP50": 0.9094114575940501,
+    "mAP50-95": 0.6239509430485035,
+    "elapsed_minutes": 1.9
+  },
+  {
+    "ablation": "quality_gate",
+    "condition": "off",
+    "seed": 456,
+    "mAP50": 0.9318776031814008,
+    "mAP50-95": 0.6391176895006705,
+    "elapsed_minutes": 3.4
+  },
+  {
+    "ablation": "quality_gate",
+    "condition": "on",
+    "seed": 456,
+    "mAP50": 0.9313872996614889,
+    "mAP50-95": 0.62905515303565,
+    "elapsed_minutes": 1.7
+  },
+  {
+    "ablation": "quality_gate",
+    "condition": "off",
+    "seed": 789,
+    "mAP50": 0.9172695374072366,
+    "mAP50-95": 0.6233033367373808,
+    "elapsed_minutes": 3.3
+  },
+  {
+    "ablation": "quality_gate",
+    "condition": "on",
+    "seed": 789,
+    "mAP50": 0.9038222785420774,
+    "mAP50-95": 0.6205833977480126,
+    "elapsed_minutes": 1.4
+  },
+  {
+    "ablation": "quality_gate",
+    "condition": "off",
+    "seed": 999,
+    "mAP50": 0.9220825710411082,
+    "mAP50-95": 0.6243776880604259,
+    "elapsed_minutes": 2.9
+  },
+  {
+    "ablation": "quality_gate",
+    "condition": "on",
+    "seed": 999,
+    "mAP50": 0.9130720332698967,
+    "mAP50-95": 0.6132286940408705,
+    "elapsed_minutes": 1.6
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "raw",
+    "seed": 42,
+    "mAP50": 0.9197428795572363,
+    "mAP50-95": 0.6249629072254129,
+    "elapsed_minutes": 2.7
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_normalize",
+    "seed": 42,
+    "mAP50": 0.8391708826872631,
+    "mAP50-95": 0.5412209684467737,
+    "elapsed_minutes": 3.1
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_only",
+    "seed": 42,
+    "mAP50": 0.8020891590144833,
+    "mAP50-95": 0.5146645461740257,
+    "elapsed_minutes": 3.3
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "raw",
+    "seed": 123,
+    "mAP50": 0.9245383734861116,
+    "mAP50-95": 0.6277813549205803,
+    "elapsed_minutes": 2.4
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_normalize",
+    "seed": 123,
+    "mAP50": 0.8292573160648823,
+    "mAP50-95": 0.5360843831771906,
+    "elapsed_minutes": 3.4
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_only",
+    "seed": 123,
+    "mAP50": 0.8200151442096475,
+    "mAP50-95": 0.5370418294552308,
+    "elapsed_minutes": 3.4
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "raw",
+    "seed": 456,
+    "mAP50": 0.9238719366794994,
+    "mAP50-95": 0.6306510072996159,
+    "elapsed_minutes": 2.9
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_normalize",
+    "seed": 456,
+    "mAP50": 0.795406382364238,
+    "mAP50-95": 0.5249076335809196,
+    "elapsed_minutes": 3.3
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_only",
+    "seed": 456,
+    "mAP50": 0.8183870355847896,
+    "mAP50-95": 0.536376514925269,
+    "elapsed_minutes": 3.3
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "raw",
+    "seed": 789,
+    "mAP50": 0.9245104380435119,
+    "mAP50-95": 0.629341142036113,
+    "elapsed_minutes": 2.8
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_normalize",
+    "seed": 789,
+    "mAP50": 0.8343322068253246,
+    "mAP50-95": 0.5269939897469451,
+    "elapsed_minutes": 3.4
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_only",
+    "seed": 789,
+    "mAP50": 0.7997008916438911,
+    "mAP50-95": 0.5117665095317687,
+    "elapsed_minutes": 3.3
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "raw",
+    "seed": 999,
+    "mAP50": 0.9262852219308986,
+    "mAP50-95": 0.6302922091902423,
+    "elapsed_minutes": 2.8
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_normalize",
+    "seed": 999,
+    "mAP50": 0.8320995643736181,
+    "mAP50-95": 0.5374296986824072,
+    "elapsed_minutes": 3.3
+  },
+  {
+    "ablation": "preprocessing",
+    "condition": "resize_only",
+    "seed": 999,
+    "mAP50": 0.845639505288397,
+    "mAP50-95": 0.5397534789019665,
+    "elapsed_minutes": 3.3
+  }
+]

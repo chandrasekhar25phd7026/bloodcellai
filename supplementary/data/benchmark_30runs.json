@@ -1,0 +1,302 @@
+[
+  {
+    "dataset": "BCCD",
+    "task": "detect",
+    "seed": 123,
+    "mAP50": 0.9344635986367976,
+    "mAP50-95": 0.64071648981524,
+    "precision": 0.8587046901525373,
+    "recall": 0.9258397630902162,
+    "status": "success",
+    "elapsed_minutes": 3.0
+  },
+  {
+    "dataset": "Chula_RBC",
+    "task": "detect",
+    "seed": 123,
+    "mAP50": 0.5668464749206039,
+    "mAP50-95": 0.39106889449278587,
+    "precision": 0.6504265801837472,
+    "recall": 0.5332241493588046,
+    "status": "success",
+    "elapsed_minutes": 7.7
+  },
+  {
+    "dataset": "Malaria_BBoxes",
+    "task": "detect",
+    "seed": 123,
+    "mAP50": 0.9530470169283687,
+    "mAP50-95": 0.8061092296157785,
+    "precision": 0.9205618374636284,
+    "recall": 0.9679487381340426,
+    "status": "success",
+    "elapsed_minutes": 11.5
+  },
+  {
+    "dataset": "NIH_Malaria",
+    "task": "classify",
+    "seed": 123,
+    "top1_accuracy": 0.9599999785423279,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 2.2
+  },
+  {
+    "dataset": "AcuteLeukemia",
+    "task": "classify",
+    "seed": 123,
+    "top1_accuracy": 1.0,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 3.1
+  },
+  {
+    "dataset": "Mooney_WBC",
+    "task": "classify",
+    "seed": 123,
+    "top1_accuracy": 0.9925000071525574,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 3.6
+  },
+  {
+    "dataset": "BCCD",
+    "task": "detect",
+    "seed": 999,
+    "mAP50": 0.917738388936217,
+    "mAP50-95": 0.6065737534083233,
+    "precision": 0.878172066969266,
+    "recall": 0.8750557425304479,
+    "status": "success",
+    "elapsed_minutes": 3.7
+  },
+  {
+    "dataset": "Chula_RBC",
+    "task": "detect",
+    "seed": 999,
+    "mAP50": 0.5806615880457826,
+    "mAP50-95": 0.38810328429596525,
+    "precision": 0.5720678666838759,
+    "recall": 0.5970729525453979,
+    "status": "success",
+    "elapsed_minutes": 7.6
+  },
+  {
+    "dataset": "Malaria_BBoxes",
+    "task": "detect",
+    "seed": 999,
+    "mAP50": 0.8413407376427563,
+    "mAP50-95": 0.6880655336199736,
+    "precision": 0.7511475594850691,
+    "recall": 0.8346784820802263,
+    "status": "success",
+    "elapsed_minutes": 11.2
+  },
+  {
+    "dataset": "NIH_Malaria",
+    "task": "classify",
+    "seed": 999,
+    "top1_accuracy": 0.9649999737739563,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 1.9
+  },
+  {
+    "dataset": "AcuteLeukemia",
+    "task": "classify",
+    "seed": 999,
+    "top1_accuracy": 0.9956709742546082,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 2.3
+  },
+  {
+    "dataset": "Mooney_WBC",
+    "task": "classify",
+    "seed": 999,
+    "top1_accuracy": 0.9925000071525574,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 3.8
+  },
+  {
+    "dataset": "BCCD",
+    "task": "detect",
+    "seed": 456,
+    "mAP50": 0.9466501631970434,
+    "mAP50-95": 0.6501423186446044,
+    "precision": 0.880099972882641,
+    "recall": 0.924376366474319,
+    "status": "success",
+    "elapsed_minutes": 4.8
+  },
+  {
+    "dataset": "Chula_RBC",
+    "task": "detect",
+    "seed": 456,
+    "mAP50": 0.6068826154473409,
+    "mAP50-95": 0.41378652563878754,
+    "precision": 0.6156927731432424,
+    "recall": 0.5694604477505656,
+    "status": "success",
+    "elapsed_minutes": 7.8
+  },
+  {
+    "dataset": "Malaria_BBoxes",
+    "task": "detect",
+    "seed": 456,
+    "mAP50": 0.9257455100156937,
+    "mAP50-95": 0.7315300839748808,
+    "precision": 0.9143012073724472,
+    "recall": 0.8832923967092285,
+    "status": "success",
+    "elapsed_minutes": 11.6
+  },
+  {
+    "dataset": "NIH_Malaria",
+    "task": "classify",
+    "seed": 456,
+    "top1_accuracy": 0.9449999928474426,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 1.7
+  },
+  {
+    "dataset": "AcuteLeukemia",
+    "task": "classify",
+    "seed": 456,
+    "top1_accuracy": 0.9913420081138611,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 3.4
+  },
+  {
+    "dataset": "Mooney_WBC",
+    "task": "classify",
+    "seed": 456,
+    "top1_accuracy": 0.9950000047683716,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 4.1
+  },
+  {
+    "dataset": "BCCD",
+    "task": "detect",
+    "seed": 789,
+    "mAP50": 0.9108269032794231,
+    "mAP50-95": 0.6468397074318097,
+    "precision": 0.8353496304752799,
+    "recall": 0.9166082238326801,
+    "status": "success",
+    "elapsed_minutes": 3.3
+  },
+  {
+    "dataset": "Chula_RBC",
+    "task": "detect",
+    "seed": 789,
+    "mAP50": 0.5606511858561573,
+    "mAP50-95": 0.3769925546843676,
+    "precision": 0.5483369665843096,
+    "recall": 0.5998177744285944,
+    "status": "success",
+    "elapsed_minutes": 7.7
+  },
+  {
+    "dataset": "Malaria_BBoxes",
+    "task": "detect",
+    "seed": 789,
+    "mAP50": 0.9515588268805769,
+    "mAP50-95": 0.7571040908063574,
+    "precision": 0.8364525214564198,
+    "recall": 0.9411031881054565,
+    "status": "success",
+    "elapsed_minutes": 11.2
+  },
+  {
+    "dataset": "NIH_Malaria",
+    "task": "classify",
+    "seed": 789,
+    "top1_accuracy": 0.9350000023841858,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 1.7
+  },
+  {
+    "dataset": "AcuteLeukemia",
+    "task": "classify",
+    "seed": 789,
+    "top1_accuracy": 0.9913420081138611,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 3.3
+  },
+  {
+    "dataset": "Mooney_WBC",
+    "task": "classify",
+    "seed": 789,
+    "top1_accuracy": 0.9975000023841858,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 3.8
+  },
+  {
+    "dataset": "BCCD",
+    "task": "detect",
+    "seed": 42,
+    "mAP50": 0.9257347921797936,
+    "mAP50-95": 0.6328048093022535,
+    "precision": 0.8056381657775366,
+    "recall": 0.9286108084466135,
+    "status": "success",
+    "elapsed_minutes": 2.4
+  },
+  {
+    "dataset": "Chula_RBC",
+    "task": "detect",
+    "seed": 42,
+    "mAP50": 0.5376182234693238,
+    "mAP50-95": 0.35717982755882277,
+    "precision": 0.605985116131298,
+    "recall": 0.5668829385676597,
+    "status": "success",
+    "elapsed_minutes": 7.3
+  },
+  {
+    "dataset": "Malaria_BBoxes",
+    "task": "detect",
+    "seed": 42,
+    "mAP50": 0.8545054497421426,
+    "mAP50-95": 0.7042033840959364,
+    "precision": 0.8246321707182588,
+    "recall": 0.9253125257691619,
+    "status": "success",
+    "elapsed_minutes": 10.7
+  },
+  {
+    "dataset": "NIH_Malaria",
+    "task": "classify",
+    "seed": 42,
+    "top1_accuracy": 0.925000011920929,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 1.8
+  },
+  {
+    "dataset": "AcuteLeukemia",
+    "task": "classify",
+    "seed": 42,
+    "top1_accuracy": 0.9826839566230774,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 2.7
+  },
+  {
+    "dataset": "Mooney_WBC",
+    "task": "classify",
+    "seed": 42,
+    "top1_accuracy": 0.9950000047683716,
+    "top5_accuracy": 1.0,
+    "status": "success",
+    "elapsed_minutes": 3.5
+  }
+]

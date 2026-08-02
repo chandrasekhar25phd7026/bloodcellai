@@ -1,0 +1,62 @@
+[
+  {
+    "dataset": "BCCD",
+    "format_detection_sec": 1.737,
+    "build_sec": 2.394,
+    "build_ram_delta_mb": 0.4,
+    "images_built": 364,
+    "validation_sec": 6.321,
+    "export_sec": 0.454,
+    "export_ram_delta_mb": 0.0
+  },
+  {
+    "dataset": "Chula_RBC",
+    "format_detection_sec": null,
+    "build_sec": 0.128,
+    "build_ram_delta_mb": 5.2,
+    "images_built": 623,
+    "validation_sec": 9.68,
+    "export_sec": 0.22,
+    "export_ram_delta_mb": 0.0
+  },
+  {
+    "dataset": "Malaria_BBoxes",
+    "format_detection_sec": null,
+    "build_sec": 2.173,
+    "build_ram_delta_mb": 98.4,
+    "images_built": 1328,
+    "validation_sec": 36.35,
+    "export_sec": 1.027,
+    "export_ram_delta_mb": 0.0
+  },
+  {
+    "dataset": "NIH_Malaria",
+    "format_detection_sec": 0.024,
+    "build_sec": 0.173,
+    "build_ram_delta_mb": 0.0,
+    "images_built": 2000,
+    "validation_sec": 17.01,
+    "export_sec": 0.318,
+    "export_ram_delta_mb": 0.0
+  },
+  {
+    "dataset": "AcuteLeukemia",
+    "format_detection_sec": 0.027,
+    "build_sec": 0.209,
+    "build_ram_delta_mb": 0.0,
+    "images_built": 2304,
+    "validation_sec": 18.703,
+    "export_sec": 0.379,
+    "export_ram_delta_mb": 0.0
+  },
+  {
+    "dataset": "Mooney_WBC",
+    "format_detection_sec": 0.047,
+    "build_sec": 0.366,
+    "build_ram_delta_mb": 0.0,
+    "images_built": 4000,
+    "validation_sec": 36.002,
+    "export_sec": 0.618,
+    "export_ram_delta_mb": 0.0
+  }
+]
