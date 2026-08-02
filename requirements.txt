@@ -1,0 +1,19 @@
+# Core dependencies for BloodCellAI.
+# Version numbers below are minimums known to work with this project as
+# developed and tested (Python 3.12, per the Kaggle environment used
+# throughout development and benchmarking). Exact pins were not captured
+# via `pip freeze` from the confirmed working environment at time of
+# writing -- if you have access to that environment, running
+# `pip freeze > requirements.txt` there will give you exact reproducible
+# versions; treat the versions below as a tested-working floor, not a
+# verified-exact snapshot.
+
+numpy>=1.24
+opencv-python>=4.8
+Pillow>=10.0
+PyYAML>=6.0
+scipy>=1.11
+matplotlib>=3.7
+pandas>=2.0
+ultralytics>=8.0.0
+pytest>=7.4

@@ -1,0 +1,21 @@
+# Conda environment for BloodCellAI.
+# Mirrors requirements.txt -- see that file's header note on version
+# confidence. Create with: conda env create -f environment.yml
+
+name: bloodcellai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy>=1.24
+  - opencv>=4.8
+  - pillow>=10.0
+  - pyyaml>=6.0
+  - scipy>=1.11
+  - matplotlib>=3.7
+  - pandas>=2.0
+  - pytest>=7.4
+  - pip
+  - pip:
+      - ultralytics>=8.0.0
