@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "BloodCellAI: An Automated Format-Detection, Quality-Assessment, and Harmonization Framework for Multi-Source Blood Cell Imaging Datasets"
 authors:
-  - family-names: "[Your last name]"
-    given-names: "[Your first name]"
-    affiliation: "[Your institution]"
+  - family-names: "[MUTTANGI]"
+    given-names: "[CHANDRASEKHAR]"
+    affiliation: "[VIT-AP UNIVERSITY]"
 version: 1.0.0
 date-released: "2026-08-01"
 url: "https://github.com/[your-username]/bloodcellai"
