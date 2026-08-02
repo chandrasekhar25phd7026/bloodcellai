@@ -86,7 +86,7 @@ If you use this framework, please cite:
   title = {BloodCellAI: An Automated Format-Detection, Quality-Assessment, and Harmonization Framework for Multi-Source Blood Cell Imaging Datasets},
   author = {[MUTTANGI CHANDRASEKHAR]},
   year = {2026},
-  url = {https://github.com/[CHANDRASEKHAR25PHD7026]/bloodcellai},
+  url = {https://github.com/[chandrasekhar25phd7026]/bloodcellai},
   doi = {PLACEHOLDER}
 }
 ```
