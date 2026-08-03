@@ -25,7 +25,7 @@ See the accompanying paper for full methodology, benchmark results, and two hone
 ## Installation
 
 ```bash
-git clone https://github.com/[your-username]/bloodcellai.git
+git clone https://github.com/chandrasekhar25phd7026/bloodcellai.git
 cd bloodcellai
 pip install -e ./bloodcell
 pip install -e ./preprocessing
