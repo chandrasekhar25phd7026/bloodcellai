@@ -2,12 +2,13 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "BloodCellAI: An Automated Format-Detection, Quality-Assessment, and Harmonization Framework for Multi-Source Blood Cell Imaging Datasets"
 authors:
-  - family-names: "MUTTANGI"
-    given-names: "CHANDRASEKHAR"
-    affiliation: "VIT-AP UNIVERSITY"
+  - family-names: "Muttangi"
+    given-names: "Chandrasekhar"
+    affiliation: "VIT-AP University"
 version: 1.0.0
-date-released: "2026-08-01"
+date-released: "2026-08-03"
 url: "https://github.com/chandrasekhar25phd7026/bloodcellai"
+doi: "10.5281/zenodo.21772853"
 license: MIT
 repository-code: "https://github.com/chandrasekhar25phd7026/bloodcellai"
 keywords:

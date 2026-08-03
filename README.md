@@ -1,6 +1,6 @@
 # BloodCellAI
 
-[![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER.svg)](https://doi.org/PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21772853.svg)](https://doi.org/10.5281/zenodo.21772853)
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/chandrasekhar25phd7026/bloodcellai)](https://github.com/chandrasekhar25phd7026/bloodcellai/releases)
@@ -59,7 +59,7 @@ gate = DatasetQualityGate(minimum_quality_score=50.0)
 clean_dataset, report = gate.filter_passing(dataset)
 
 # Split and export in a standard, training-ready layout
-clean_dataset.assign_splits(train=0.8, val=0.1, test=0.1, seed=42)
+clean_dataset.assign_splits(train=0.8, val=0.1, test=0.1)
 export_yolo(clean_dataset, "/path/to/export")
 ```
 
@@ -88,10 +88,10 @@ If you use this framework, please cite:
 ```bibtex
 @software{bloodcellai2026,
   title = {BloodCellAI: An Automated Format-Detection, Quality-Assessment, and Harmonization Framework for Multi-Source Blood Cell Imaging Datasets},
-  author = {MUTTANGI CHANDRASEKHAR},
+  author = {Muttangi, Chandrasekhar},
   year = {2026},
   url = {https://github.com/chandrasekhar25phd7026/bloodcellai},
-  doi = {PLACEHOLDER}
+  doi = {10.5281/zenodo.21772853}
 }
 ```
 
